@@ -9,7 +9,11 @@ header_pages:
   - donate.md
   - about.md
 
-footer: 'follow us on <a href="https://twitter.com/LinuxStory">twitter</a>'
+footer: 'follow us on <a href="https://github.com/shenzhenlug">GitHub</a>'
 
 plugins:
   - jekyll-seo-tag
+  
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
