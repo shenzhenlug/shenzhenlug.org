@@ -32,21 +32,6 @@ And add this line to your Jekyll site's `_config.yml`:
 theme: jekyll-theme-console
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-theme-console
-
-## Usage
-
-In addition to jekyll's default configuration options, you can provide:
-- `header_pages` to specify which pages should be displayed in navbar
-- `footer` string, which will be inserted on the end of the page (doesn't support markup, but html)
-- `google_analytics` tracking id (tracking will be enabled only in production environments)
-
 ```yaml
 header_pages:
   - index.md
