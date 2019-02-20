@@ -1,12 +1,8 @@
-# Example Site settings
+header_pages:
+  - index.md
+  - about.md
 
-#google_analytics: UA-NNNNNNNN-N
-
-#header_pages:
-#  - index.md
-#  - about.md
-
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/LinuxStory">twitter</a>'
 
 
 plugins:
