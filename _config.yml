@@ -1,6 +1,7 @@
 header_pages:
   - index.md
-  - 
+  - join.md
+  - donate.md
   - about.md
 
 footer: 'follow us on <a href="https://twitter.com/LinuxStory">twitter</a>'
