@@ -1,3 +1,9 @@
+---
+title: 关于
+layout: page
+permalink: /about
+---
+
 ## 关于
 
 深圳 LUG 是一个完全的非盈利社区，主要以交流开源为主。
