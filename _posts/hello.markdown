@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogroll
 title:  "Hello ShenzhenLUG"
 date:   2018-11-04 12:32:45 +0100
 categories:
