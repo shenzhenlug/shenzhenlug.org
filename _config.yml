@@ -2,7 +2,9 @@ title: '深圳 Linux 用户组 / Shenzhen GNU/Linux User Group'
 description: "深圳 GNU/Linux 用户组，深圳开源社区，深圳开源用户，Linux"
 
 header_pages:
+
   - index.md
+  - blog.md
   - join.md
   - donate.md
   - about.md
