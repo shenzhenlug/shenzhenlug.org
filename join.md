@@ -1,3 +1,9 @@
+---
+title: 加入我们
+layout: page
+permalink: /join
+---
+
 ## 加入我们     
 深圳 GNU/Linux 用户组，简称 Shenzhen LUG，是一个完全的非盈利社区，你的加入和参与不需要任何人的同意。
 
