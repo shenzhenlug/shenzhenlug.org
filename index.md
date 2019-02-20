@@ -13,39 +13,6 @@ permalink: /
 
 ### 友情链接
 ```yaml
-LinuxStory: "https://linuxstory.org"
+ - LinuxStory: "[https://linuxstory.org](https://linuxstory.org)"
 
 ```
-
-## Demo
-
-[https://b2a3e8.github.io/jekyll-theme-console/](https://b2a3e8.github.io/jekyll-theme-console/)
-
-
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "jekyll-theme-console"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-theme-console
-```
-
-```yaml
-header_pages:
-  - index.md
-  - about.md
-
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
-
-google_analytics: UA-NNNNNNNN-N
-```
-
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/b2a3e8/jekyll-theme-console. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
