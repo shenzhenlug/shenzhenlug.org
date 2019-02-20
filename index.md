@@ -12,7 +12,10 @@ permalink: /
 深圳 GNU/Linux 用户组建有邮件列表、电报群组、QQ 群、微信群等多个沟通群组，请点击 [加入我们](./join/) 选择喜欢的沟通工具。
 
 ### 友情链接
-- LinuxStory: 
+```yaml
+LinuxStory: "https://linuxstory.org"
+
+```
 
 ## Demo
 
