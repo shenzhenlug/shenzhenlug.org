@@ -1,5 +1,5 @@
 ---
-title: 加入我们
+title: /加入我们
 layout: page
 permalink: /join
 ---
