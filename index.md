@@ -13,6 +13,6 @@ permalink: /
 
 ### 友情链接
 ```yaml
- - LinuxStory: "https://linuxstory.org"
+ - [LinuxStory](https://linuxstory.org)
 
 ```
