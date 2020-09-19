@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### 深圳 GNU/Linux 用户组
-深圳 GNU/Linux 用户组，简称 Shenzhen LUG，是一个完全的非盈利社区，由本地的 GNU/Linux 爱好者组成，欢迎在深圳本地的开源爱好者加入我们，线上及线下分享 Linux 及开源软件使用、开发等经验心得，并定期举行聚会和沙龙。 
+深圳 GNU/Linux 用户组，简称 Shenzhen LUG，是一个完全的非盈利社区，由本地的  GNU/Linux 爱好者组成，欢迎在深圳本地的开源爱好者加入我们，线上及线下分享 Linux 及开源软件使用、开发等经验心得，并定期举行聚会和沙龙。 
 <br>
 ![](./assets/shenzhen-lug-600.jpg)
 
@@ -15,5 +15,6 @@ permalink: /
 ### 友情链接
 - [LinuxStory](https://linuxstory.org)
 - [SingaporeLUG](https://singaporelug.org)
+- [ChinaLUG](https://lug.org.cn)
  - [重庆 LUG](https://chongqinglug.org)
  - [西安 LUG](https://xalug.org)
