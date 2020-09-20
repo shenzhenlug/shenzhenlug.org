@@ -1,5 +1,5 @@
 title: '深圳 Linux 用户组 / Shenzhen GNU/Linux User Group'
-description: "深圳 GNU/Linux 用户组，深圳开源社区，深圳开源用户，Linux"
+description: "深圳 LUG 是一个完全的非盈利社区，由深圳本地的  GNU/Linux 爱好者和开源爱好者组成，我们会不定期做线上及线下分享 Linux 及开源软件使用、开发等经验心得，以及不定期聚会和沙龙。 "
 
 header_pages:
 
@@ -9,7 +9,7 @@ header_pages:
   - donate.md
   - about.md
 
-footer: 'follow us on <a href="https://github.com/shenzhenlug">GitHub</a>'
+footer: 'follow us on <a href="https://github.com/shenzhenlug">GitHub</a>, <a href="https://t.me/shenzhenlug">线上交流</a>'
 
 plugins:
   - jekyll-seo-tag
