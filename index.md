@@ -16,5 +16,5 @@ permalink: /
 - [LinuxStory](https://linuxstory.org)
 - [SingaporeLUG](https://singaporelug.org)
 - [ChinaLUG](https://lug.org.cn)
- - [重庆 LUG](https://chongqinglug.org)
+- [ChongqingLUG](https://chongqinglug.org)
  - [西安 LUG](https://xalug.org)
