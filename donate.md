@@ -1,6 +1,8 @@
 ---
-title: /捐赠
+title: 捐赠  |  深圳 Linux 用户组
 layout: page
+description: "深圳 LUG 是一个完全的非盈利社区，由深圳本地的  GNU/Linux 爱好者和开源爱好者组成，主要包括线上交流、不定期聚会和沙龙，欢迎捐赠支持深圳LUG的发展和日常运作。 "
+keywords: "Shenzhen, 深圳, 社区, Linux, 开源, GNU, 开源社区, Open Source, Android, 捐赠, 电报群, QQ群, 邮件列表, 微信, 电报, QQ"
 permalink: /donate
 ---
 
@@ -11,5 +13,6 @@ permalink: /donate
 捐赠人 | 捐赠内容 | 捐赠日期 | 备注
 ---- | --- | --- | ---
 [开源工场](https://openingsource.org)|	捐赠 2018 年 VPS 供使用	| Sep 23, 2018	|201902弃用
-[学生开源年会](https://sosconf.org) |	11美金，2018年域名费用|	Sep 25, 2018	|
+[学生开源年会](https://sosconf.org) |	11美金，2018年域名费用|	Sep 25, 2018	| 赞助费拨付
 [LinuxStory](https://linuxstory.org) |	36美金，购买 WP 主题	|Sep 26, 2018	| 201902弃用
+[ChinaLUG](https://lug.org.cn) |	22美金，2019/2020 年域名费用	|Sep 26, 2019	|
