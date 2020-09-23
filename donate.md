@@ -13,9 +13,9 @@ permalink: /donate
 
 ## 捐赠名单
 捐赠人 | 捐赠内容 | 捐赠日期 | 备注
----- | --- | --- | ---
+--- | --- | --- | ---
 [开源工场](https://openingsource.org)|	捐赠 2018 年 VPS 供使用	| Sep 23, 2018	|201902弃用，改为 GitHub
 [学生开源年会](https://sosconf.org) |	11美金，2018年域名费用|	Sep 25, 2018	| 赞助费拨付
 [LinuxStory](https://linuxstory.org) |	36美金，购买 WP 主题	|Sep 26, 2018	| 201902弃用
-[ChinaLUG](https://lug.org.cn) |	22美金，2019/2020 年域名费用	|Sep 26, 2019	|
+[ChinaLUG](https://lug.org.cn) |	22美金，2019/2020 年域名费用	|Sep 26, 2019	| 经办人 N0B8D1
 N0B8D1 |	10美金，2021 年域名费用	|Sep 23, 2020	| 提前 renew 域名
