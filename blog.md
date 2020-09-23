@@ -1,6 +1,6 @@
 ---
 layout: blogroll
-title: blog  |  深圳 Linux 用户组
+title: blog
 permalink: /blog
 ---
 
