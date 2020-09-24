@@ -24,10 +24,10 @@ categories:
 分享主题：暂定自由讨论。同时，欢迎大佬报名分享，时间30分钟。请邮件 hua#linuxstory.org 报名.(# 替换为 @)
 
 SZLUG 线下活动期待你的加入！
-SZLUG 加入方式
 
-QQ群：892597770
-网址：https://shenzhenlug.org
-电报群：https://t.me/shenzhenlug
-邮件列表：https://groups.google.com/forum/#!forum/szlug
-微信群：微信群因其封闭性，无法直接添加，请添加用户： opensourceleslie 注明：ShenzhenLUG，邀请加入微信群，或由已在群内的朋友邀请入群）
+### SZLUG 加入方式
+- QQ群：892597770
+- 网址：[https://shenzhenlug.org](https://shenzhenlug.org)
+- 电报群：https://t.me/shenzhenlug
+- 邮件列表：https://groups.google.com/forum/#!forum/szlug
+- 微信群：微信群因其封闭性，无法直接添加，请添加用户： opensourceleslie 注明：ShenzhenLUG，邀请加入微信群，或由已在群内的朋友邀请入群）
