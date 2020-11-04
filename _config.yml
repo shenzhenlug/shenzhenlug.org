@@ -8,6 +8,7 @@ header_pages:
   - blog.md
   - join.md
   - donate.md
+  - links.md
   - about.md
 
 footer: 'follow us on <a href="https://github.com/shenzhenlug">GitHub</a>, <a href="https://t.me/shenzhenlug">线上交流</a>'
