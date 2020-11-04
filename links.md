@@ -9,6 +9,6 @@ permalink: /links
 本页面收集和整理常用的开源网站链接，要求是非盈利开源项目或组织，欢迎提交 PR，或者在电报群中联系群主添加。（请勿提交商业公司链接）
 
 ## 捐赠名单
-名称 | 网址| 简介 
---- | --- | --- 
-铜豌豆 Linux |	http://atzlinux.com/	| 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统。 
+| 名称 | 网址 | 简介  |
+|:----: | :----------: | ------------- |
+|铜豌豆 Linux |	[http://atzlinux.com](http://atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统。 |
