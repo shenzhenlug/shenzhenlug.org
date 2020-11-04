@@ -11,9 +11,6 @@ permalink: /links
 ## 常用链接
 
 | 名称 | 网址 | 简介  |
-|:----: | :----------: | ------------- |
-|铜豌豆 Linux |	[http://atzlinux.com](http://atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统。 |
+|:---: | :----------: | ------------- |
+|铜豌豆 Linux |	[http://atzlinux.com](http://atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 操作系统。 |
 
-| left | center | right |
-| :--- | :----: | ----: |
-| aaaa | bbbbbb | ccccc |
