@@ -12,5 +12,7 @@ permalink: /links
 
 | 名称 | 网址 | 简介  |
 |:--- | :----------: | :-------------: |
-|铜豌豆 Linux |	[atzlinux.com](https://www.atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统 |
+|ezgoLinux |	[ezgolinux.org](https://ezgolinux.org) | ezgoLinux 是面向公益教育领域的自由软件推广计划 。|
+
+|铜豌豆 Linux |	[atzlinux.com](https://www.atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统 。|
 
