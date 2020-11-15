@@ -12,6 +12,8 @@ permalink: /links
 
 | 名称 | 网址 | 简介  |
 |:--- | :----------: | :-------------: |
+|China LUG | [lug.org.cn](https://lug.org.cn) | China GNU/Linux User Group 是一个汇集全国各地 LUG 的线上平台。|
+
 |ezgoLinux |	[ezgolinux.org](https://ezgolinux.org) | ezgoLinux 是一个面向公益教育领域的自由软件推广计划 。|
 
 |铜豌豆 Linux |	[atzlinux.com](https://www.atzlinux.com) | 铜豌豆 Linux 是一款基于 Debian 的 Linux 中文操作系统 。|
