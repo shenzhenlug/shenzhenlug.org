@@ -17,4 +17,5 @@ permalink: /
 - [SingaporeLUG](https://singaporelug.org)
 - [ChinaLUG](https://lug.org.cn)
 - [ChongqingLUG](https://chongqinglug.org)
- - [西安 LUG](https://xalug.org)
+ -  [西安 GNU/Linux 用户组](https://xalug.org)
+  - [天津 GNU/Linux 用户组](https://tjlug.org)
